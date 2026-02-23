@@ -1,8 +1,6 @@
-# Enterprise SaaS Dashboard UI
+# Nexora---Dashboard-Management-Tasks
 
-A production-style SaaS dashboard built with a scalable component architecture and modern frontend stack.
-
----
+A scalable task management dashboard built using React, TypeScript, and Tailwind CSS. Implements reusable UI components, animated statistics, project filtering, and a structured folder architecture inspired by enterprise SaaS applications.
 
 ## Overview
 
