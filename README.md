@@ -6,8 +6,8 @@ A scalable task management dashboard built using React, TypeScript, and Tailwind
 
 A production-style SaaS dashboard built with a scalable component architecture and modern frontend stack.
 
-🔗 Live Demo: https://nexora-dashboard-management-tasks.vercel.app
-📦 Repository: https://github.com/idhan724/Nexora---Dashboard-Management-Tasks
+- 🔗 Live Demo: https://nexora-dashboard-management-tasks.vercel.app
+- 📦 Repository: https://github.com/idhan724/Nexora---Dashboard-Management-Tasks
 
 ## 📝 Overview
 
@@ -85,7 +85,7 @@ This project was built to simulate a real-world SaaS dashboard environment and d
 
 ## 📥 Installation
 
-git clone https://github.com/idhan724/Nexora---Dashboard-Management-Tasks.git
-cd Nexora---Dashboard-Management-Tasks
-npm install
-npm run dev
+- git clone https://github.com/idhan724/Nexora---Dashboard-Management-Tasks.git
+- cd Nexora---Dashboard-Management-Tasks
+- npm install
+- npm run dev
