@@ -5,7 +5,6 @@ import {
   ChartBar,
   File,
   Folder,
-  GalleryVerticalEnd,
   HelpCircle,
   Home,
   Search,

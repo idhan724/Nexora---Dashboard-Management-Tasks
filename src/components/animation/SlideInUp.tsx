@@ -1,6 +1,17 @@
-import { motion } from "motion/react";
+import { motion, type MotionProps } from "motion/react";
 
-function SlideInUp({ as: Component = "div", children, ...props }) {
+export type SlideInProps<T extends React.ElementType> = {
+  as?: T;
+  children: React.ReactNode;
+} & Omit<React.ComponentProps<T>, "children"> &
+  MotionProps;
+
+function SlideInUp<T extends React.ElementType = "div">({
+  as,
+  children,
+  ...props
+}: SlideInProps<T>) {
+  const Component = as || "div";
   const MotionComponent = motion(Component);
   return (
     <MotionComponent
